@@ -1,0 +1,7 @@
+external_code,latitude,longitude,source_type,functional_status,salinity_ppt,sodium_mg_l,chloride_mg_l,tds_mg_l,potable,queue_time_mins,elevation_m
+WP-CTG-001,22.3569,91.7832,deep_tube_well,functional,0.35,180.0,,,true,15,3.2
+WP-CTG-002,22.3610,91.7915,psf,functional,0.85,,620.0,,true,25,1.8
+WP-CTG-003,22.3480,91.7750,rainwater_tank,functional,0.12,,,350.0,true,5,4.5
+WP-CTG-004,22.3655,91.7890,deep_tube_well,partially_functional,2.80,340.0,750.0,1400.0,false,40,2.1
+WP-CTG-005,22.3420,91.7695,ro_plant,functional,0.20,,,450.0,true,20,5.0
+WP-CTG-006,22.3712,91.8021,deep_tube_well,dry,4.50,,,1800.0,false,0,1.2

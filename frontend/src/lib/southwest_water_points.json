@@ -1,0 +1,817 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.102,
+          22.3305
+        ]
+      },
+      "properties": {
+        "id": "ro-shy-001",
+        "external_code": "RO-SHY-001",
+        "name": "Shyamnagar Solar Desalination Plant 1",
+        "location_name": "Shyamnagar, Satkhira",
+        "source_type": "ro_plant",
+        "functional_status": "functional",
+        "salinity_ppt": 0.08,
+        "sodium_mg_l": 38.0,
+        "chloride_mg_l": 68.0,
+        "tds_mg_l": 115.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 35,
+        "elevation_m": 2.8,
+        "est_queue_time_mins": 35,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.185,
+          22.215
+        ]
+      },
+      "properties": {
+        "id": "ro-shy-002",
+        "external_code": "RO-SHY-002",
+        "name": "Munshiganj Forest Edge Solar RO",
+        "location_name": "Shyamnagar, Satkhira",
+        "source_type": "ro_plant",
+        "functional_status": "functional",
+        "salinity_ppt": 0.11,
+        "sodium_mg_l": 45.0,
+        "chloride_mg_l": 80.0,
+        "tds_mg_l": 130.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 35,
+        "elevation_m": 1.9,
+        "est_queue_time_mins": 35,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2815,
+          22.451
+        ]
+      },
+      "properties": {
+        "id": "ro-dac-001",
+        "external_code": "RO-DAC-001",
+        "name": "Chalna Port Solar RO Facility",
+        "location_name": "Dacope, Khulna",
+        "source_type": "ro_plant",
+        "functional_status": "functional",
+        "salinity_ppt": 0.09,
+        "sodium_mg_l": 42.0,
+        "chloride_mg_l": 75.0,
+        "tds_mg_l": 120.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 35,
+        "elevation_m": 3.1,
+        "est_queue_time_mins": 35,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.215,
+          22.485
+        ]
+      },
+      "properties": {
+        "id": "ro-pai-001",
+        "external_code": "RO-PAI-001",
+        "name": "Kapilmuni Solar RO Station",
+        "location_name": "Paikgachha, Khulna",
+        "source_type": "ro_plant",
+        "functional_status": "functional",
+        "salinity_ppt": 0.12,
+        "sodium_mg_l": 55.0,
+        "chloride_mg_l": 98.0,
+        "tds_mg_l": 160.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 35,
+        "elevation_m": 3.4,
+        "est_queue_time_mins": 35,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.301,
+          22.342
+        ]
+      },
+      "properties": {
+        "id": "ro-koy-001",
+        "external_code": "RO-KOY-001",
+        "name": "Koyra Sadar Community RO Hub",
+        "location_name": "Koyra, Khulna",
+        "source_type": "ro_plant",
+        "functional_status": "functional",
+        "salinity_ppt": 0.14,
+        "sodium_mg_l": 62.0,
+        "chloride_mg_l": 110.0,
+        "tds_mg_l": 180.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 35,
+        "elevation_m": 1.7,
+        "est_queue_time_mins": 35,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.168,
+          22.552
+        ]
+      },
+      "properties": {
+        "id": "ro-ass-001",
+        "external_code": "RO-ASS-001",
+        "name": "Assasuni Upazila Health RO",
+        "location_name": "Assasuni, Satkhira",
+        "source_type": "ro_plant",
+        "functional_status": "functional",
+        "salinity_ppt": 0.1,
+        "sodium_mg_l": 48.0,
+        "chloride_mg_l": 85.0,
+        "tds_mg_l": 140.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 35,
+        "elevation_m": 3.2,
+        "est_queue_time_mins": 35,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.208,
+          22.412
+        ]
+      },
+      "properties": {
+        "id": "psf-pai-001",
+        "external_code": "PSF-PAI-001",
+        "name": "Paikgachha Central Community PSF",
+        "location_name": "Paikgachha, Khulna",
+        "source_type": "psf",
+        "functional_status": "functional",
+        "salinity_ppt": 0.38,
+        "sodium_mg_l": 145.0,
+        "chloride_mg_l": 260.0,
+        "tds_mg_l": 410.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 9,
+        "elevation_m": 2.4,
+        "est_queue_time_mins": 9,
+        "functional_neighbors_2km": 3,
+        "flow_rate_l_min": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.262,
+          22.385
+        ]
+      },
+      "properties": {
+        "id": "psf-pai-002",
+        "external_code": "PSF-PAI-002",
+        "name": "Soladana Union Community PSF",
+        "location_name": "Paikgachha, Khulna",
+        "source_type": "psf",
+        "functional_status": "functional",
+        "salinity_ppt": 0.45,
+        "sodium_mg_l": 178.0,
+        "chloride_mg_l": 320.0,
+        "tds_mg_l": 490.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 19,
+        "elevation_m": 2.0,
+        "est_queue_time_mins": 19,
+        "functional_neighbors_2km": 1,
+        "flow_rate_l_min": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.145,
+          22.245
+        ]
+      },
+      "properties": {
+        "id": "psf-shy-001",
+        "external_code": "PSF-SHY-001",
+        "name": "Burigoalini Union PSF",
+        "location_name": "Shyamnagar, Satkhira",
+        "source_type": "psf",
+        "functional_status": "functional",
+        "salinity_ppt": 0.42,
+        "sodium_mg_l": 165.0,
+        "chloride_mg_l": 300.0,
+        "tds_mg_l": 460.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 23,
+        "elevation_m": 1.8,
+        "est_queue_time_mins": 23,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.248,
+          22.432
+        ]
+      },
+      "properties": {
+        "id": "psf-dac-001",
+        "external_code": "PSF-DAC-001",
+        "name": "Pankhali Union Model PSF",
+        "location_name": "Dacope, Khulna",
+        "source_type": "psf",
+        "functional_status": "functional",
+        "salinity_ppt": 0.35,
+        "sodium_mg_l": 135.0,
+        "chloride_mg_l": 245.0,
+        "tds_mg_l": 380.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 19,
+        "elevation_m": 2.6,
+        "est_queue_time_mins": 19,
+        "functional_neighbors_2km": 1,
+        "flow_rate_l_min": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.325,
+          22.47
+        ]
+      },
+      "properties": {
+        "id": "psf-koy-001",
+        "external_code": "PSF-KOY-001",
+        "name": "Amadi Union Seasonal PSF",
+        "location_name": "Koyra, Khulna",
+        "source_type": "psf",
+        "functional_status": "functional",
+        "salinity_ppt": 0.52,
+        "sodium_mg_l": 210.0,
+        "chloride_mg_l": 380.0,
+        "tds_mg_l": 580.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 23,
+        "elevation_m": 2.3,
+        "est_queue_time_mins": 23,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.195,
+          22.388
+        ]
+      },
+      "properties": {
+        "id": "psf-ass-001",
+        "external_code": "PSF-ASS-001",
+        "name": "Pratapnagar PSF (Post-Cyclone Restored)",
+        "location_name": "Assasuni, Satkhira",
+        "source_type": "psf",
+        "functional_status": "partially_functional",
+        "salinity_ppt": 0.68,
+        "sodium_mg_l": 275.0,
+        "chloride_mg_l": 490.0,
+        "tds_mg_l": 720.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 0,
+        "elevation_m": 1.5,
+        "est_queue_time_mins": 0,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.26,
+          22.42
+        ]
+      },
+      "properties": {
+        "id": "rwh-dac-001",
+        "external_code": "RWH-DAC-001",
+        "name": "Bajua High School Rainwater Tank",
+        "location_name": "Dacope, Khulna",
+        "source_type": "rainwater_tank",
+        "functional_status": "functional",
+        "salinity_ppt": 0.05,
+        "sodium_mg_l": 25.0,
+        "chloride_mg_l": 45.0,
+        "tds_mg_l": 70.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 23,
+        "elevation_m": 3.0,
+        "est_queue_time_mins": 23,
+        "functional_neighbors_2km": 1,
+        "flow_rate_l_min": 12.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.225,
+          22.295
+        ]
+      },
+      "properties": {
+        "id": "rwh-shy-001",
+        "external_code": "RWH-SHY-001",
+        "name": "Gabura Cyclone Shelter RWH System",
+        "location_name": "Shyamnagar, Satkhira",
+        "source_type": "rainwater_tank",
+        "functional_status": "functional",
+        "salinity_ppt": 0.07,
+        "sodium_mg_l": 32.0,
+        "chloride_mg_l": 58.0,
+        "tds_mg_l": 90.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 29,
+        "elevation_m": 4.5,
+        "est_queue_time_mins": 29,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 12.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.215,
+          22.422
+        ]
+      },
+      "properties": {
+        "id": "dtw-pai-001",
+        "external_code": "DTW-PAI-001",
+        "name": "Paikgachha Health Complex Deep Well",
+        "location_name": "Paikgachha, Khulna",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 0.58,
+        "sodium_mg_l": 285.0,
+        "chloride_mg_l": 510.0,
+        "tds_mg_l": 760.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 14,
+        "elevation_m": 3.5,
+        "est_queue_time_mins": 14,
+        "functional_neighbors_2km": 1,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.26,
+          22.378
+        ]
+      },
+      "properties": {
+        "id": "dtw-koy-001",
+        "external_code": "DTW-KOY-001",
+        "name": "Koyra Upazila Deep Sweet Aquifer",
+        "location_name": "Koyra, Khulna",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 0.49,
+        "sodium_mg_l": 215.0,
+        "chloride_mg_l": 380.0,
+        "tds_mg_l": 540.0,
+        "is_maternal_safe": true,
+        "potable": true,
+        "queue_time_mins": 14,
+        "elevation_m": 2.1,
+        "est_queue_time_mins": 14,
+        "functional_neighbors_2km": 1,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.198,
+          22.405
+        ]
+      },
+      "properties": {
+        "id": "stw-pai-001",
+        "external_code": "STW-PAI-001",
+        "name": "Paikgachha Bazaar Saline Tubewell",
+        "location_name": "Paikgachha, Khulna",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 1.85,
+        "sodium_mg_l": 410.0,
+        "chloride_mg_l": 740.0,
+        "tds_mg_l": 1280.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 10,
+        "elevation_m": 1.8,
+        "est_queue_time_mins": 10,
+        "functional_neighbors_2km": 2,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.21,
+          22.395
+        ]
+      },
+      "properties": {
+        "id": "stw-pai-002",
+        "external_code": "STW-PAI-002",
+        "name": "Shibsa Riverbank Handpump",
+        "location_name": "Paikgachha, Khulna",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 2.65,
+        "sodium_mg_l": 590.0,
+        "chloride_mg_l": 1050.0,
+        "tds_mg_l": 1780.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 10,
+        "elevation_m": 1.4,
+        "est_queue_time_mins": 10,
+        "functional_neighbors_2km": 2,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.17,
+          22.44
+        ]
+      },
+      "properties": {
+        "id": "stw-ass-001",
+        "external_code": "STW-ASS-001",
+        "name": "Assasuni Sluice Gate Shallow Well",
+        "location_name": "Assasuni, Satkhira",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 2.4,
+        "sodium_mg_l": 520.0,
+        "chloride_mg_l": 920.0,
+        "tds_mg_l": 1560.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 18,
+        "elevation_m": 1.6,
+        "est_queue_time_mins": 18,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.155,
+          22.41
+        ]
+      },
+      "properties": {
+        "id": "stw-ass-002",
+        "external_code": "STW-ASS-002",
+        "name": "Kholpetua Embankment Tubewell",
+        "location_name": "Assasuni, Satkhira",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 3.8,
+        "sodium_mg_l": 860.0,
+        "chloride_mg_l": 1540.0,
+        "tds_mg_l": 2450.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 18,
+        "elevation_m": 1.2,
+        "est_queue_time_mins": 18,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.22,
+          22.36
+        ]
+      },
+      "properties": {
+        "id": "stw-koy-001",
+        "external_code": "STW-KOY-001",
+        "name": "Bedkashi Coastal Dyke Handpump",
+        "location_name": "Koyra, Khulna",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 2.9,
+        "sodium_mg_l": 640.0,
+        "chloride_mg_l": 1100.0,
+        "tds_mg_l": 1850.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 18,
+        "elevation_m": 1.2,
+        "est_queue_time_mins": 18,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.29,
+          22.28
+        ]
+      },
+      "properties": {
+        "id": "stw-koy-002",
+        "external_code": "STW-KOY-002",
+        "name": "South Bedkashi Sinking Well",
+        "location_name": "Koyra, Khulna",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 4.5,
+        "sodium_mg_l": 1120.0,
+        "chloride_mg_l": 2010.0,
+        "tds_mg_l": 3100.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 18,
+        "elevation_m": 0.9,
+        "est_queue_time_mins": 18,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.165,
+          22.315
+        ]
+      },
+      "properties": {
+        "id": "stw-shy-001",
+        "external_code": "STW-SHY-001",
+        "name": "Padmapukur Gher Border Well",
+        "location_name": "Shyamnagar, Satkhira",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 3.1,
+        "sodium_mg_l": 710.0,
+        "chloride_mg_l": 1280.0,
+        "tds_mg_l": 2100.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 18,
+        "elevation_m": 1.5,
+        "est_queue_time_mins": 18,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.245,
+          22.285
+        ]
+      },
+      "properties": {
+        "id": "stw-shy-002",
+        "external_code": "STW-SHY-002",
+        "name": "Gabura Polder Saline Leak Handpump",
+        "location_name": "Shyamnagar, Satkhira",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 5.2,
+        "sodium_mg_l": 1420.0,
+        "chloride_mg_l": 2560.0,
+        "tds_mg_l": 3950.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 18,
+        "elevation_m": 0.8,
+        "est_queue_time_mins": 18,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.31,
+          22.39
+        ]
+      },
+      "properties": {
+        "id": "stw-dac-001",
+        "external_code": "STW-DAC-001",
+        "name": "Sutarkhali Embankment Handpump",
+        "location_name": "Dacope, Khulna",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 3.4,
+        "sodium_mg_l": 780.0,
+        "chloride_mg_l": 1390.0,
+        "tds_mg_l": 2250.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 18,
+        "elevation_m": 1.3,
+        "est_queue_time_mins": 18,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.335,
+          22.445
+        ]
+      },
+      "properties": {
+        "id": "stw-dac-002",
+        "external_code": "STW-DAC-002",
+        "name": "Kamarkhola Tidal Flooded Tubewell",
+        "location_name": "Dacope, Khulna",
+        "source_type": "deep_tube_well",
+        "functional_status": "functional",
+        "salinity_ppt": 4.1,
+        "sodium_mg_l": 980.0,
+        "chloride_mg_l": 1780.0,
+        "tds_mg_l": 2790.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 18,
+        "elevation_m": 1.1,
+        "est_queue_time_mins": 18,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.12,
+          22.36
+        ]
+      },
+      "properties": {
+        "id": "inact-shy-001",
+        "external_code": "INACT-SHY-001",
+        "name": "Atulia Inundated PSF (Submerged)",
+        "location_name": "Shyamnagar, Satkhira",
+        "source_type": "psf",
+        "functional_status": "non-functional",
+        "salinity_ppt": 5.8,
+        "sodium_mg_l": 1600.0,
+        "chloride_mg_l": 2890.0,
+        "tds_mg_l": 4400.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 0,
+        "elevation_m": 0.5,
+        "est_queue_time_mins": 0,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 15.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.28,
+          22.31
+        ]
+      },
+      "properties": {
+        "id": "inact-koy-001",
+        "external_code": "INACT-KOY-001",
+        "name": "Maharajpur Cracked Deep Well",
+        "location_name": "Koyra, Khulna",
+        "source_type": "deep_tube_well",
+        "functional_status": "non-functional",
+        "salinity_ppt": 6.1,
+        "sodium_mg_l": 1720.0,
+        "chloride_mg_l": 3100.0,
+        "tds_mg_l": 4750.0,
+        "is_maternal_safe": false,
+        "potable": false,
+        "queue_time_mins": 0,
+        "elevation_m": 0.7,
+        "est_queue_time_mins": 0,
+        "functional_neighbors_2km": 0,
+        "flow_rate_l_min": 20.0
+      }
+    }
+  ]
+}

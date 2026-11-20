@@ -1,0 +1,17 @@
+# Ignore bulk dataset downloads and raw data files
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.zip
+*.tar.gz
+*.json.gz
+
+# Specific WPDX dataset files
+wpdx_bangladesh.csv
+
+# Keep directory structure and sample seeds tracked
+!.gitignore
+!.gitkeep
+!raw/water_points_sample.csv
+!raw/southwest_water_points.csv

@@ -1,0 +1,29 @@
+external_code,name,upazila,district,latitude,longitude,source_type,functional_status,salinity_ppt,sodium_mg_l,chloride_mg_l,tds_mg_l,potable,queue_time_mins,elevation_m
+RO-SHY-001,Shyamnagar Solar Desalination Plant 1,Shyamnagar,Satkhira,22.3305,89.102,ro_plant,functional,0.08,38.0,68.0,115.0,True,25,2.8
+RO-SHY-002,Munshiganj Forest Edge Solar RO,Shyamnagar,Satkhira,22.215,89.185,ro_plant,functional,0.11,45.0,80.0,130.0,True,30,1.9
+RO-DAC-001,Chalna Port Solar RO Facility,Dacope,Khulna,22.451,89.2815,ro_plant,functional,0.09,42.0,75.0,120.0,True,15,3.1
+RO-PAI-001,Kapilmuni Solar RO Station,Paikgachha,Khulna,22.485,89.215,ro_plant,functional,0.12,55.0,98.0,160.0,True,20,3.4
+RO-KOY-001,Koyra Sadar Community RO Hub,Koyra,Khulna,22.342,89.301,ro_plant,functional,0.14,62.0,110.0,180.0,True,35,1.7
+RO-ASS-001,Assasuni Upazila Health RO,Assasuni,Satkhira,22.552,89.168,ro_plant,functional,0.1,48.0,85.0,140.0,True,18,3.2
+PSF-PAI-001,Paikgachha Central Community PSF,Paikgachha,Khulna,22.412,89.208,psf,functional,0.38,145.0,260.0,410.0,True,15,2.4
+PSF-PAI-002,Soladana Union Community PSF,Paikgachha,Khulna,22.385,89.262,psf,functional,0.45,178.0,320.0,490.0,True,20,2.0
+PSF-SHY-001,Burigoalini Union PSF,Shyamnagar,Satkhira,22.245,89.145,psf,functional,0.42,165.0,300.0,460.0,True,25,1.8
+PSF-DAC-001,Pankhali Union Model PSF,Dacope,Khulna,22.432,89.248,psf,functional,0.35,135.0,245.0,380.0,True,12,2.6
+PSF-KOY-001,Amadi Union Seasonal PSF,Koyra,Khulna,22.47,89.325,psf,functional,0.52,210.0,380.0,580.0,True,22,2.3
+PSF-ASS-001,Pratapnagar PSF (Post-Cyclone Restored),Assasuni,Satkhira,22.388,89.195,psf,partially_functional,0.68,275.0,490.0,720.0,True,40,1.5
+RWH-DAC-001,Bajua High School Rainwater Tank,Dacope,Khulna,22.42,89.26,rainwater_tank,functional,0.05,25.0,45.0,70.0,True,8,3.0
+RWH-SHY-001,Gabura Cyclone Shelter RWH System,Shyamnagar,Satkhira,22.295,89.225,rainwater_tank,functional,0.07,32.0,58.0,90.0,True,10,4.5
+DTW-PAI-001,Paikgachha Health Complex Deep Well,Paikgachha,Khulna,22.422,89.215,deep_tube_well,functional,0.58,285.0,510.0,760.0,True,18,3.5
+DTW-KOY-001,Koyra Upazila Deep Sweet Aquifer,Koyra,Khulna,22.378,89.26,deep_tube_well,functional,0.49,215.0,380.0,540.0,True,30,2.1
+STW-PAI-001,Paikgachha Bazaar Saline Tubewell,Paikgachha,Khulna,22.405,89.198,deep_tube_well,functional,1.85,410.0,740.0,1280.0,False,5,1.8
+STW-PAI-002,Shibsa Riverbank Handpump,Paikgachha,Khulna,22.395,89.21,deep_tube_well,functional,2.65,590.0,1050.0,1780.0,False,8,1.4
+STW-ASS-001,Assasuni Sluice Gate Shallow Well,Assasuni,Satkhira,22.44,89.17,deep_tube_well,functional,2.4,520.0,920.0,1560.0,False,6,1.6
+STW-ASS-002,Kholpetua Embankment Tubewell,Assasuni,Satkhira,22.41,89.155,deep_tube_well,functional,3.8,860.0,1540.0,2450.0,False,4,1.2
+STW-KOY-001,Bedkashi Coastal Dyke Handpump,Koyra,Khulna,22.36,89.22,deep_tube_well,functional,2.9,640.0,1100.0,1850.0,False,7,1.2
+STW-KOY-002,South Bedkashi Sinking Well,Koyra,Khulna,22.28,89.29,deep_tube_well,functional,4.5,1120.0,2010.0,3100.0,False,5,0.9
+STW-SHY-001,Padmapukur Gher Border Well,Shyamnagar,Satkhira,22.315,89.165,deep_tube_well,functional,3.1,710.0,1280.0,2100.0,False,10,1.5
+STW-SHY-002,Gabura Polder Saline Leak Handpump,Shyamnagar,Satkhira,22.285,89.245,deep_tube_well,functional,5.2,1420.0,2560.0,3950.0,False,2,0.8
+STW-DAC-001,Sutarkhali Embankment Handpump,Dacope,Khulna,22.39,89.31,deep_tube_well,functional,3.4,780.0,1390.0,2250.0,False,5,1.3
+STW-DAC-002,Kamarkhola Tidal Flooded Tubewell,Dacope,Khulna,22.445,89.335,deep_tube_well,functional,4.1,980.0,1780.0,2790.0,False,6,1.1
+INACT-SHY-001,Atulia Inundated PSF (Submerged),Shyamnagar,Satkhira,22.36,89.12,psf,non-functional,5.8,1600.0,2890.0,4400.0,False,0,0.5
+INACT-KOY-001,Maharajpur Cracked Deep Well,Koyra,Khulna,22.31,89.28,deep_tube_well,non-functional,6.1,1720.0,3100.0,4750.0,False,0,0.7
