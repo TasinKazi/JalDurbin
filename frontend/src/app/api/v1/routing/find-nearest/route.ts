@@ -14,7 +14,12 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    const backendUrl = process.env.NEXT_PUBLIC_API_URL || process.env.BACKEND_API_URL || "http://localhost:8000";
+    const backendUrl =
+      process.env.NEXT_PUBLIC_API_URL ||
+      process.env.BACKEND_API_URL ||
+      (process.env.NODE_ENV === "production"
+        ? "https://jaldurbin.onrender.com"
+        : "http://localhost:8000");
 
     // Attempt to query FastAPI backend if active
     try {

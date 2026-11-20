@@ -40,7 +40,12 @@ function getCoastalWaterPoints(): WaterPointGeoJSONFeature[] {
 export async function GET(req: NextRequest) {
   try {
     const { searchParams } = new URL(req.url);
-    const backendUrl = process.env.NEXT_PUBLIC_API_URL || process.env.BACKEND_API_URL || "http://localhost:8000";
+    const backendUrl =
+      process.env.NEXT_PUBLIC_API_URL ||
+      process.env.BACKEND_API_URL ||
+      (process.env.NODE_ENV === "production"
+        ? "https://jaldurbin.onrender.com"
+        : "http://localhost:8000");
 
     // 1. Attempt to query FastAPI backend if active
     try {
