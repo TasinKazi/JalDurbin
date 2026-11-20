@@ -1,3 +1,7 @@
+## Demo
+
+https://jal-durbin.vercel.app/
+
 ## Overview
 
 **JalDurbin** is a geospatial decision-support engine designed for coastal Bangladesh (specifically Khulna and Satkhira). It maps coastal water quality and optimizes pedestrian routes to safe water sources. By factoring in live weather telemetry, walking path accessibility, and strict maternal health (salinity) thresholds, it guides residents to the safest functional pump.
@@ -52,8 +56,3 @@ JalDurbin is designed to build on Xylem's existing coastal footprint (such as th
 * **Deployment:** Vercel
 
 ---
-
-## Demo
-
-https://jal-durbin.vercel.app/
-
