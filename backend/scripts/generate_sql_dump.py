@@ -15,7 +15,7 @@ if not os.path.exists(csv_path):
     print(f"-- ERROR: {csv_path} not found", file=sys.stderr)
     sys.exit(1)
 
-df = pd.read_csv(csv_path)
+df = pd.read_csv(csv_path, low_memory=False)
 
 print("BEGIN;")
 print("-- Bulk inserting 18,414 coastal water point records")

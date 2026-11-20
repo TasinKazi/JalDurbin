@@ -74,7 +74,7 @@ async def run_migration(target_url: str):
         sys.exit(1)
         
     print(f"==> Reading coastal dataset: {csv_path}...")
-    df = pd.read_csv(csv_path)
+    df = pd.read_csv(csv_path, low_memory=False)
     total_records = len(df)
     print(f"==> Loaded {total_records:,} coastal water point records.")
     
